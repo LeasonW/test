@@ -1,4 +1,4 @@
-package lib 
+package test
 
 func Hello() {
     println("Hello!")
