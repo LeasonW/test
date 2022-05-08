@@ -1,4 +1,4 @@
-package lib // import "leason.larkedm.ltd/test"
+package lib 
 
 func Hello() {
     println("Hello!")
